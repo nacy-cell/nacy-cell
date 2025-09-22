@@ -30,9 +30,6 @@
 - **正在学习**：分布式系统设计、微服务架构优化、生产级项目部署与监控
 
 
-## ⭐️ GitHub 数据统计
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nacy-cell&show_icons=true&theme=tokyonight&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ✨ 若我的学习笔记或项目对您有帮助，欢迎点亮star；我也期待与领域内的前辈交流技术心得，若有不足之处，还请多多指点！
